@@ -189,12 +189,13 @@ Wenn ja, geben Sie die Preise der zuwendungsfähigen Ausgaben ohne abzugsfähige
 Angabe der Gesamtkosten der Maßnahme. Anzugeben sind alle im Zusammenhang mit der Fördermaßnahme voraussichtlich anfallenden Kosten, unabhängig davon, ob die Beträge zuwendungsfähig (also förderfähig) sind. Die aufgegliederte Berechnung der Kosten ist in der dem Antrag beizufügenden Kostenberechnung darzustellen. Art und Umfang der Kostengliederung sind den förderungsspezifischen Bedürfnissen anzupassen.
 Beschreibung der Ausgabe
 
-| Beschreibung der Ausgabe  |    Betrag in € | Link                                                    |
-| :------------------------ | -------------: | :------------------------------------------------------ |
-| Shaper Origin Gen 1       |     2.606,10 € | https://www.shapertools.com/de-de/origin                |
-| Maslow 4.1 Kit            |       459,95 € | https://shop.maslowcnc.com/products/maslow-4-1-kit      |
-| Kantenfräse DeWalt D26200 |       213,00 € | https://www.rotopino.de/kantenfrase-dewalt-d26200,44965 |
-| **Summe der Ausgaben**    | **3.278,05 €** |
+| Beschreibung der Ausgabe          |    Betrag in € | Link                                                    |
+| :-------------------------------- | -------------: | :------------------------------------------------------ |
+| Shaper Origin Gen 1 Reconditioned |     2.606,10 € | https://www.shapertools.com/de-de/recon                 |
+| Shaper Studio Dauerlizenz         |       350,00 € | https://www.shapertools.com/de-de/studio#plans          |
+| Maslow 4.1 Kit                    |       459,95 € | https://shop.maslowcnc.com/products/maslow-4-1-kit      |
+| Kantenfräse DeWalt D26200         |       213,00 € | https://www.rotopino.de/kantenfrase-dewalt-d26200,44965 |
+| **Summe der Ausgaben**            | **3.628,05 €** |
 
 - [ ] Kostenvoranschläge und/oder Vergleichsangebote hochladen
 
@@ -208,7 +209,7 @@ Beschreibung der Ausgabe
 ### Beantragte Fördersumme
 
 #### Zuwendungsfähige Ausgaben
-3.278,05 €
+3.628,05 €
 
 #### Automatisch beantragte Summe
 2.000,00 €
