@@ -218,6 +218,9 @@ Beschreibung der Ausgabe
 #### Automatisch beantragte Summe
 2.000,00 €
 
+#### Eigenanteil
+1.628,05 €
+
 ## 11. Dokumentenupload:
 
 ### Registereinträge hochladen
