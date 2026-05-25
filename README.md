@@ -157,6 +157,15 @@ post@makerspace-gt.de
 
 #### Kurzbeschreibung der Maßnahme (2.000 Zeichen)
 
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
+
+Gütersloh liegt im Herzen der deutschen Möbelindustrie. Hier sind namhafte Hersteller wie Pfleiderer, Nobilia, Venjakob und Huga ansässig. Dank eines Heimatschecks konnten wir 2021 eine Möbelwerkstatt einrichten, die seither rege genutzt wird. Werkbänke, Outdoorküchen und Caravan-Ausbauten sind nur einige der Projekte, die damit umgesetzt wurden.
+
+Unser Makerspace ist seit 2019 in der Weberei Gütersloh zu Hause – dem Kulturzentrum der Stadt, das seit 1984 Heimat für Vereine, Gastronomie, Kino und Jugendzentrum ist. Anfang 2026 begann die Renovierung, bei der festgestellt wurde, dass das gesamte Gebäude brandschutztechnisch ertüchtigt werden muss. Dies ist ein Aufwand mit noch unbekanntem Ausmaß, der nicht budgetiert ist und mindestens noch ein Jahr dauern wird. Davon sind wir besonders betroffen. Wir haben keine eigene Werkstatt mehr, sondern müssen uns zwei Räume mit allen anderen Initiativen teilen.
+
+Als engagierte Bürger*innen lassen wir uns davon nicht einschränken. Mit dem Projekt #IchBinJenny schaffen wir zwei mobile CNC-Fräsen an. Die handgeführte Shaper Origin arbeitet direkt am Werkstück, während die Maslow CNC große Platten auf dem Boden bearbeitet. So bleibt das Handwerk der Möbelindustrie erlebbar und kann praktisch an neuen Möbeln für die verwinkelten Räume angewendet werden.
+
+Der Projektname verbindet die Spinning Jenny der Weberei mit dem Anspruch des Hashtags #IchBinHanna, der im Jahr 2021 auf die prekäre Lage befristet angestellter Forschender aufmerksam gemacht hat.
 
 ### Durchführungsort der Maßnahme
 
