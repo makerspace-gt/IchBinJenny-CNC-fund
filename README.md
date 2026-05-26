@@ -201,16 +201,14 @@ Beschreibung der Ausgabe
 | Beschreibung der Ausgabe          |    Betrag in € | Link                                                    |
 | :-------------------------------- | -------------: | :------------------------------------------------------ |
 | Shaper Origin Gen 1 Reconditioned |     2.606,10 € | https://www.shapertools.com/de-de/recon                 |
-| Shaper Studio Dauerlizenz         |       350,00 € | https://www.shapertools.com/de-de/studio#plans          |
 | Maslow 4.1 Kit                    |       459,95 € | https://shop.maslowcnc.com/products/maslow-4-1-kit      |
 | Kantenfräse DeWalt D26200         |       213,00 € | https://www.rotopino.de/kantenfrase-dewalt-d26200,44965 |
-| **Summe der Ausgaben**            | **3.628,05 €** |
+| **Summe der Ausgaben**            | **3.278,05 €** |
 
 - [x] Kostenvoranschläge und/oder Vergleichsangebote hochladen
 - [1 - Shaper Origin Gen 1 Reconditioned - Shaper Tools.png](./Angebote/1%20-%20Shaper%20Origin%20Gen%201%20Reconditioned%20-%20Shaper%20Tools.png)
-- [2 - Shaper Studio Dauerlizenz - Shaper Tools.png](./Angebote/2%20-%20Shaper%20Studio%20Dauerlizenz%20-%20Shaper%20Tools.png)
-- [3 - Maslow 4.1 Kit - Maslow.png](./Angebote/3%20-%20Maslow%204.1%20Kit%20-%20Maslow.png)
-- [4 - Kantenfräse DeWalt D26200 - rotopino.png](./Angebote/4%20-%20Kantenfräse%20DeWalt%20D26200%20-%20rotopino.png)
+- [2 - Maslow 4.1 Kit - Maslow.png](./Angebote/2%20-%20Maslow%204.1%20Kit%20-%20Maslow.png)
+- [3 - Kantenfräse DeWalt D26200 - rotopino.png](./Angebote/3%20-%20Kantenfräse%20DeWalt%20D26200%20-%20rotopino.png)
 
 ### Auflistung von Einnahmen
 
@@ -222,13 +220,13 @@ Beschreibung der Ausgabe
 ### Beantragte Fördersumme
 
 #### Zuwendungsfähige Ausgaben
-3.628,05 €
+3.278,05 €
 
 #### Automatisch beantragte Summe
 2.000,00 €
 
 #### Eigenanteil
-1.628,05 €
+1.278,05 €
 
 ## 11. Dokumentenupload:
 
